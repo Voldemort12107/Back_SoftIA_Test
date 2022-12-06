@@ -14,7 +14,7 @@ Après avoir téléchargé le projet,
 
 ## Installez les différents packages
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## Lancer le projet
 
